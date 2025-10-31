@@ -41,7 +41,7 @@ Acá vas a encontrar proyectos que surgieron en cursos, trabajos y desafíos per
 
 
 ## Un poco más allá de lo profesional 💚
-Además de mi trabajo con datos, me gusta el **mosaico**. Es mi cable a tierra y mi forma de *reconciliarme con el error y el volver a empezar*.
+Además de mi trabajo con datos, me gusta el **mosaico**. Es mi cable a tierra y la manera de *reconciliarme con el error y el volver a empezar*.
 
 Mi perra ***Petra*** 🐕 es parte fundamental de mi vida: adoptarla me *transformó* y  enseñó sobre empatía, paciencia y flexibilidad. 
 
