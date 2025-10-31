@@ -1,4 +1,6 @@
 <h1 align="center">¡Hola! Soy Anto Guerrero 👋
+<h1 align="center"> [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f2abda2e-f4fb-48c4-b7fb-02f2f64a3cb6" />] (mailto:guerreroantonellaa@gmail.com)
+
   
 ---
 ## ¡Bienvenidx a mi espacio de Github! 🎉
