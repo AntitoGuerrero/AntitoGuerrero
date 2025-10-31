@@ -1,7 +1,5 @@
-<h1 align="center">¡Hola! Soy Anto Guerrero 👋
-<h1 align="center"> [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f2abda2e-f4fb-48c4-b7fb-02f2f64a3cb6" />] (mailto:guerreroantonellaa@gmail.com)
-
-  
+<h1 align="center">¡Hola! Soy Anto Guerrero 👋                                                                                                                 
+                                                                                                                                                          
 ---
 ## ¡Bienvenidx a mi espacio de Github! 🎉
 Soy una **licenciada en socióloga** (UBA) que nunca se conformó con mirar la realidad desde un solo ángulo. 
