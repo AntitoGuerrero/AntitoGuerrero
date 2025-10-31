@@ -10,7 +10,7 @@ Mi recorrido es como un *mosaico* 🎨: piezas de sociología, usabilidad, exper
 ***Mi perfil es ecléctico, porque la realidad es compleja.***
 
 ## “Todxs sabemos algo, todxs ignoramos algo; por eso aprendemos siempre”📚
-Disfruto mucho de incorporar nuevas herramientas, explorar otros lenguajes y desafiarme. **Así llegué a ✨ GitHub ✨***: buscando aprender algo distinto y compartir con otrxs lo que voy haciendo. 
+Disfruto mucho de incorporar nuevas herramientas, explorar otros lenguajes y desafiarme. **Así llegué a ✨ GitHub ✨**: buscando aprender algo distinto y compartir con otrxs lo que voy haciendo. 
 
 No soy desarrolladora ni experta en código, pero sí una apasionada por investigar, descubrir lo que se encuentra detrás y – sobre todo - *abrir el juego*: socializar proyectos, recibir feedback, construir comunidad y desafiar los límites de lo que podemos hacer juntxs. 
 
@@ -33,7 +33,7 @@ Acá vas a encontrar proyectos que surgieron en cursos, trabajos y desafíos per
 
 ## Proyectos destacados 👷 
 🚧 ***Espacio en construcción*** 🚧
-- [Evaluación de Impacto — Programa “Pasate a Led”](https://github.com/AntitoGuerrero/pasate-a-led)
+- [Evaluación de Impacto — Programa “Pasate a Led”](https://github.com/AntitoGuerrero/programa-pasate-a-led)
 
   Análisis y visualización en Power BI del recambio de lámparas tradicionales por LED en la Ciudad de Buenos Aires. 
 
