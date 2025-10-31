@@ -16,7 +16,7 @@ No soy desarrolladora ni experta en código, pero sí una apasionada por investi
 
 Si algo me define, es la *curiosidad* y la convicción de que ***lo que no se mide y evalúa, no se puede mejorar***.
 
-## ¿Por qué este repositorio? 🚀
+## ¿Por qué este perfil? 🚀
 Acá vas a encontrar proyectos que surgieron en cursos, trabajos y desafíos personales. Mi idea es que puedan servir de base para otrxs, que se animen a explorar, mejorar y sumar su mirada. Creo en la construcción colectiva, en el ida y vuelta, y el valor de compartir saberes.
 
 ## Mi camino de aprendizaje 📖
