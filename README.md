@@ -1,3 +1,7 @@
+
+<p align="center">
+<img width="425" height="147" alt="image" src="https://github.com/user-attachments/assets/3b69552e-974a-4e58-99e2-44e09aa65980" />
+
 <h1 align="center">¡Hola! Soy Anto Guerrero 👋                                                                                                                 
                                                                                                                                                           
 ---
