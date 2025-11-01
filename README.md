@@ -6,9 +6,9 @@
                                                                                                                                                           
 ---
 ## ¡Bienvenidx a mi espacio de Github! 🎉
-Como **licenciada en socióloga** (UBA) me gusta pensarme como una especie de ***“traductora”*** entre el mundo de los datos y el de las personas: tomo números, patrones y tendencias, y los convierto en *historias* que ayuden a entender, decidir y transformar. 
+Como **licenciada en socióloga** (UBA) me gusta pensar que soy una especie de ***“traductora”*** entre el mundo de los datos y el de las personas: tomo números, patrones y tendencias, y los convierto en *historias* que ayuden a entender, decidir y transformar. 
 
-Mi recorrido es como un *mosaico* 🎨: piezas de sociología, usabilidad, experiencia de cliente, análisis de datos, gestión de proyectos y arte, todas encajando para dar forma a una mirada amplia y flexible. 
+Mi recorrido es similar a un *mosaico* 🎨: piezas de sociología, usabilidad, experiencia de cliente, análisis de datos, gestión de proyectos y arte, todas encajando para dar forma a una mirada amplia y flexible. 
 
 ## “Todxs sabemos algo, todxs ignoramos algo; por eso aprendemos siempre”📚
 Disfruto mucho de incorporar nuevas herramientas, explorar otros lenguajes y desafiarme. **Así llegué a ✨ GitHub ✨**: buscando aprender algo distinto y compartir con otrxs lo que voy haciendo. 
@@ -32,7 +32,8 @@ Acá vas a encontrar proyectos que surgieron en cursos, trabajos y desafíos per
 
 ## Mi trayectoria profesional
 
-<img width="1000" height="700" alt="Designer (1)" src="https://github.com/user-attachments/assets/8ba45022-a011-4470-91f5-8666aa3e2816" />
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/e996736d-5c6e-4ba4-ab1c-a4e23576f88e" />
+
 
 ## Proyectos destacados 👷 
 🚧 ***Espacio en construcción*** 🚧
@@ -41,7 +42,7 @@ Acá vas a encontrar proyectos que surgieron en cursos, trabajos y desafíos per
   Análisis y visualización en Power BI del recambio de lámparas tradicionales por LED en la Ciudad de Buenos Aires. 
 
 ## Un poco más allá de lo profesional 💚
-Además de mi trabajo con datos, me gusta el **mosaico**. Es mi cable a tierra y la manera de *reconciliarme con el error y el volver a empezar*.
+Además de mi trabajo con datos, me gusta el **mosaico**. Es mi cable a tierra y la manera de *reconciliarme con el error y volver a empezar*.
 
 Mi perra ***Petra*** 🐕 es parte fundamental de mi vida: adoptarla me *transformó* y  enseñó sobre empatía, paciencia y flexibilidad. 
 
